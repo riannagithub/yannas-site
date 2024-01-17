@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "The front end is what users see and interact with directly on a website. It involves designing the visual elements using HTML, CSS, and JavaScript to create a user-friendly interface."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "The back end handles the server-side operations, managing data and processing requests. Back-end developers use languages like Python or PHP to ensure the website functions smoothly."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "UI design focuses on creating visually appealing and intuitive interfaces. Designers work on the look and feel of the website, including layout, colors, and interactive elements."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Web flow refers to how users navigate and interact with a website. It's about creating a smooth and logical user experience, ensuring visitors can easily find information and complete tasks.  "
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Exceptional web design! Delivered beyond expectations – sleek, user-friendly, and perfectly captures my brand. Quick turnaround and great communication. Highly recommend!",
+      "author_name": "Samantha",
+      "author_designation": "Mall of Asia"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Outstanding web design! Nailed my vision, user-friendly, and efficient communication. Highly recommended!",
+      "author_name": "Irish",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Impressive web design! Captured my brand essence, excellent communication, and a user-friendly interface. Highly satisfied!",
+      "author_name": "Jalou",
+      "author_designation": "secret"
+    }
+  ]
+}
